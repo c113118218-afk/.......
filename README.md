@@ -16,8 +16,8 @@
 ### 我喜歡的網站
 
 [GitHub](https://github.com/)
+<img width="750" height="536" alt="image" src="https://github.com/user-attachments/assets/7811e6fb-0211-40b1-b1e3-666731868520" />
 
-![風景圖片](photo.jpg)
 
 > 努力不一定馬上看到結果，但持續前進一定會有所收穫。
 
